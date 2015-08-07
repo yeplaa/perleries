@@ -3,5 +3,5 @@ Perleries
 ====================
 
 Description:
-Boite a Outils de scripts Perls. 
+Boite a Outils de scripts Perls.
 
